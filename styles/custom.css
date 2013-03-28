@@ -1,0 +1,182 @@
+		body 
+		{
+					
+		}
+
+
+
+
+#header h1
+{
+	
+	color: #B76EB8;
+	font-family: 'Lemon', cursive;
+}
+
+#header h2
+{
+	color: #028482;
+	font-family: 'Lemon', cursive;
+}
+
+
+#header
+{
+background: #a1dbff; /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ExZGJmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUzJSIgc3RvcC1jb2xvcj0iI2NiZWJmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmMGY5ZmYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top, #a1dbff 0%, #cbebff 53%, #f0f9ff 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a1dbff), color-stop(53%,#cbebff), color-stop(100%,#f0f9ff)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #a1dbff 0%,#cbebff 53%,#f0f9ff 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #a1dbff 0%,#cbebff 53%,#f0f9ff 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #a1dbff 0%,#cbebff 53%,#f0f9ff 100%); /* IE10+ */
+background: linear-gradient(to bottom, #a1dbff 0%,#cbebff 53%,#f0f9ff 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a1dbff', endColorstr='#f0f9ff',GradientType=0 ); /* IE6-8 */
+
+text-align: center;
+
+    -moz-border-radius: 30px 30px 0 0;
+    -webkit-border-radius:  30px 30px 0 0;
+    -khtml-border-radius:  30px 30px 0 0;
+    border-radius:  30px 30px 0 0;
+
+}
+
+#logo
+{ 
+float:left;
+margin-top:10px;
+}
+
+#content, #social, #reviews, #specialoffer
+{
+ border-left: 1px solid #cbebff;
+ border-right: 1px solid #cbebff;
+
+}
+
+#content, #social
+{
+ background: url("../images/brillant.png") repeat scroll 0 0 #222222;
+}
+
+#reviews
+{
+	border-top: 5px dashed #cbebff;
+	border-bottom: 5px dashed #cbebff;
+}
+
+#reviews h1
+{
+	
+	color: #B76EB8;
+	font-family: 'Lemon', cursive;
+	font-size:2em;
+}
+
+#content ol.usp
+{
+	color: #7ABA7A;
+	font-size: 3em;
+	font-family: 'Strait', sans-serif;
+	padding: 10% 0 5% 10%;	
+}
+#content ol li
+{
+	line-height: 1.5em;
+	border-bottom: 1px solid  #cbebff;
+}
+
+
+
+#footer
+{
+	background-color: #028482;
+	color: #fff;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-top: solid 1px #B76EB8;	
+    
+    -moz-border-radius: 0 0 30px 30px;
+    -webkit-border-radius:  0 0 30px 30px;
+    -khtml-border-radius:  0 0 30px 30px;
+    border-radius:  0 0 30px 30px;
+}
+#footer a
+{
+	color: white;
+	text-decoration: underline;
+}
+
+
+#productphoto{padding-top: 5%;}
+
+.flex-caption {
+    background: none repeat scroll 0 0 rgba(183, 110, 184, 0.3);
+    bottom: 0;
+    color: #FFFFFF;
+    font-size: 14px;
+    left: 0;
+    line-height: 18px;
+    padding: 2%;
+    position: absolute;
+    text-shadow: 0 -1px 0 rgba(183, 110, 184, 0.3);
+    width: 96%;
+    margin: 0;
+}
+
+blockquote {
+    border: 5px solid #EEEEEE;
+    background-color: #EEEEEE;
+    margin: 0 0 20px;
+    padding: 15px;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -khtml-border-radius: 30px;
+    border-radius: 30px;
+    
+}
+blockquote.even {background-color: #fff; }
+
+@media (min-width:768px) { blockquote p {font-family: 'Give You Glory', cursive;} }
+@media (max-width:767px) { blockquote p {font-family: 'Droid Sans', serif;} }
+
+
+
+#toTop {
+		width:100px;
+        border:1px solid #ccc;
+        background:#f7f7f7;
+        text-align:center;
+        padding:5px;
+        position:fixed; /* this is the magic */
+        bottom:10px; /* together with this to put the div at the bottom*/
+        right:10px;
+        cursor:pointer;
+        display:none;
+        color:#333;
+        font-family:verdana;
+        font-size:11px;
+}
+#specialoffer
+{
+ text-align:center;
+ margin-bottom: 15px;
+}
+
+#specialoffer h1
+{
+	color: #53A853;
+	font-family: 'Lemon', cursive;
+	font-size: 2.5em;
+}
+
+#offer
+{
+border: 1px solid lightgreen;
+background-color:lightgreen;
+    -moz-border-radius: 30px;
+    -webkit-border-radius:  30px;
+    -khtml-border-radius:  30px;
+    border-radius:  30px;
+}
