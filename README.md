@@ -1,12 +1,15 @@
-twitter-bootstrap-webshop-template
+twitter-bootstrap-onepage-template
 ======================
 
-Twitter Bootstrap Webshop Template with vertical menu
+Twitter Bootstrap One Page Sale Template
 ====
 
-This sample code (powered by [W3Masters](http://www.w3masters.nl/) and [Twitter Bootstrap](http://twitter.github.com/bootstrap/) demonstrates how to build a Webshop with Twitter Bootstrap.
+This sample code (powered by [W3Masters](http://www.w3masters.nl/) and [Twitter Bootstrap](http://twitter.github.com/bootstrap/) demonstrates how to build a page / website with Twitter Bootstrap.
+Start selling your product or service now.
+Includes homepage with image slider, homepage with static slider and order page.
+Easily customize your one page sale template. Add you product or service, add testimonials and special offer(s). Optimized for high sale conversions.
 
-To see te code in action try [the demo](http://www.w3masters.nl/webshop/).
+To see te code in action try [the demo](http://www.w3masters.nl/onepage/).
 
 Main Features
 
@@ -14,14 +17,15 @@ Main Features
     JQuery 1.9.1.
     Fully Responsive Layout
     HTML5 and CSS3 Tableless Design
-    Vertical menu
+    2 Homepages with Slider
+    Sliders(Flexslider)
+    Easy Codes
 
 Page Templates
 
-    Home page
-    Catgeory page
-    Productpage
-    Search page
+    Home page1 (Slider)
+    Home page2 (Static image)
+    Order Page
     
 
 Support
@@ -31,7 +35,6 @@ Support
 Credits
 
 	[Bootstrap](http://twitter.github.com/bootstrap/)
-	[jQuery](http://www.jquery.com/)
-	[Superfish](http://users.tpg.com.au/j_birch/plugins/superfish/)
-	[Itemmaster](http://www.itemmaster.com/) (product images)
+	http://www.jquery.com/
+    http://woothemes.com/flexslider/
 
